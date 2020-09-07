@@ -2,6 +2,8 @@
 and .pptx).  It's goal is to be the most compatible and highest performance Go
 library for creation and editing of docx/xlsx/pptx files.
 
+##This's the last version publicshed under AGPL Agreement##
+
 Requires **go1.8+**, builds are tested with 1.8, 1.9 and tip.
 
 [![Build Status](https://travis-ci.org/baliance/gooxml.svg?branch=master)](https://travis-ci.org/baliance/gooxml)
@@ -50,8 +52,8 @@ DOCX/XLSX/PPTX.
 
 ## Installation ##
     
-    go get baliance.com/gooxml/
-    go build -i baliance.com/gooxml/...
+    go get github.com/LauJangit/gooxml/
+    go build -i github.com/LauJangit/gooxml/...
 
 ## Document Examples ##
 
